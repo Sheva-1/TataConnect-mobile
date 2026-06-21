@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "898221459780",
+    "project_id": "tataconnect-ead35",
+    "storage_bucket": "tataconnect-ead35.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898221459780:android:797a94a661db4fc3fcef11",
+        "android_client_info": {
+          "package_name": "com.example.tataconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898221459780-u4mbglc5rljtvrat5vk75c00k7kv2td2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB642jxKf_kg6v49xW_suHruycG3Lu6hzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898221459780-u4mbglc5rljtvrat5vk75c00k7kv2td2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
